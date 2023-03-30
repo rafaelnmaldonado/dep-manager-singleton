@@ -1,6 +1,6 @@
 # Department Manager
 
-ASP.NET Core Web API using Singleton Architecture<br><br>
+ASP.NET Core 7.0 Web API using Singleton Architecture<br><br>
 
 ## How to run
 
