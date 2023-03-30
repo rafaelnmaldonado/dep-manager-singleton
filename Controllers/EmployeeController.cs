@@ -1,5 +1,5 @@
 ﻿using dep_manager_singleton.Entities;
-using dep_manager_singleton.Persistance;
+using dep_manager_singleton.Persistence;
 using Microsoft.AspNetCore.Mvc;
 
 namespace dep_manager_singleton.Controllers

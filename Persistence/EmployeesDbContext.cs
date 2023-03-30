@@ -1,6 +1,6 @@
 ﻿using dep_manager_singleton.Entities;
 
-namespace dep_manager_singleton.Persistance
+namespace dep_manager_singleton.Persistence
 {
     public class EmployeesDbContext
     {

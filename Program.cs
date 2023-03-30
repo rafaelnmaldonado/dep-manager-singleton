@@ -1,4 +1,4 @@
-using dep_manager_singleton.Persistance;
+using dep_manager_singleton.Persistence;
 using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
